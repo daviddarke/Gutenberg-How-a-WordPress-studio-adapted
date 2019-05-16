@@ -45,7 +45,7 @@ Team photo
 
 ---
 
-# [fit] WordPress delivered
+# [fit] WordPress delivered:
 
 - Simple and reliable content delivery
 - Clear page hierarchy / url structure
@@ -59,7 +59,6 @@ Team photo
 ---
 
 # [fit] Custom fields!!!
-
 
 ---
 
@@ -80,6 +79,11 @@ Team photo
 
 ---
 
+# [fit] Next challenge
+# [fit] Build a better content editor
+
+---
+
 ![fit autoplay loop](assets/block-building.mp4)
 
 ---
@@ -88,7 +92,11 @@ Team photo
 
 ---
 
-# [fit] Then ACF pro added JSON support
+# This was great, but keeping field in sync between dev and production as **PAINFUL!**
+
+---
+
+# [fit] Then ACF Pro added JSON support
 
 ![inline](assets/mind-blown.gif)
 
@@ -100,7 +108,7 @@ Team photo
 
 ---
 
-# This is the foundation our internal development framework
+## This is the foundation our internal development framework
 
 ---
 
@@ -141,8 +149,8 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
 
 - Releases were buggy
 - A sense of this change being forced on a community
-- The negative voices outweighed positive
 - No real clarity around the classic editor and what it was meant to do
+- The negative voices outweighed positive
 
 ---
 
@@ -150,7 +158,7 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
 
 ---
 
-# [fit] Technical debt
+# [fit] **Technical changes**
 
 # Widely used frameworks would be affected
 
@@ -178,8 +186,8 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
 
 # [fit] Client relationships
 
-- How to discuss the update
- - Some clients will like the update, some won't
+- How to discuss this big change to their precious website?
+ - Some clients will like the update, some won't.
 - Will there be problems?
 - How long will it take to sort?
 - What is YOUR plan?
@@ -192,6 +200,8 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
  - It allowed us to fix the core version and pre load the classic editor
 - Pre Xmas 2018 we updated a couple of sites
 - Post Xmas 2018 we updated the rest
+
+![inline](assets/fire.gif)
 
 ---
 
