@@ -21,7 +21,7 @@ slidenumbers: true
 
 ---
 
-Team photo
+![fit](assets/atomic-team.jpg)
 
 ---
 
