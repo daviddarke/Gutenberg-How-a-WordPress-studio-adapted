@@ -1,7 +1,6 @@
 footer: Gutenberg | How a WordPress studio adapted - David Darke | [atomicsmash.co.uk](https://www.atomicsmash.co.uk)
 slidenumbers: true
 
-
 # [fit] Gutenberg
 # [fit] How a WordPress studio adapted
 
@@ -37,7 +36,7 @@ slidenumbers: true
 
 ---
 
-# [fit] WordPress enters
+# [fit] How about... WordPress?
 
 ---
 
@@ -54,15 +53,11 @@ slidenumbers: true
 
 ---
 
-# [fit] There was one thing missing...
+# [fit] There were limitations
 
 ---
 
 ![fit](assets/wysiwyg.png)
-
----
-
-# [fit] Custom fields UI!!!
 
 ---
 
@@ -83,8 +78,9 @@ slidenumbers: true
 
 ---
 
-# [fit] Next challenge
-# [fit] Build a better content editor
+# [fit] Next challenge:
+# [fit] Build a more flexible
+# [fit] content editor
 
 ---
 
@@ -118,8 +114,9 @@ slidenumbers: true
 
 # Then...
 
-
 # [fit] Gutenberg was announced
+
+![inline](assets/sweat.gif)
 
 ---
 
@@ -153,7 +150,7 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
 
 - Releases were buggy
 - A sense of this change being forced on a community
-- No real clarity around the classic editor plugin and what it was meant to do
+- No real clarity around the classic editor plugin and even how reliable it would be
 - The negative voices outweighed positive
 
 ---
@@ -178,9 +175,6 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
 
 ![inline 30%](assets/projects3.png)
 
----
-
-![inline 25%](assets/projects4.png)
 
 ---
 
@@ -194,49 +188,66 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
  - Some clients will like the update, some won't.
 - Will there be problems?
 - How long will it take to sort?
-- What is YOUR plan?
+
+
+# Clients want a solid plan.
 
 ---
 
-# [fit] What we did Atomic Smash
+# [fit] First steps for Atomic Smash
 
 - Composer helped us... ALOT
  - It allowed us to fix the core version and pre load the classic editor
-- Pre Xmas 2018 we updated a couple of sites
- - December 6th, 2018 (Atomic Smash holiday started on the 19th)
-
+- Pre Xmas 2018 we updated a couple of sites to 5.0 (with classic editor installed)
+ - Released December 6th, 2018 (Atomic Smash holiday started on the 19th)
 
 ---
 
-# Studio is closed for two weeks at Xmas...
+# [fit] Studio is closed for two weeks at Xmas...
+
+---
+
 <br>
 <br>
-# [fit] **atomicsmash.co.uk/jobs**
+<br>
+
+# [fit] 😉 **atomicsmash.co.uk/jobs** 😉
 
 ---
 
-![inline](assets/fire.gif)
-
----
-
-# [fit] What we did Atomic Smash
+# [fit] What we did at Atomic Smash
 
 - Composer helped us... ALOT
- - It allowed us to fix the core version and pre load the classic editor
 - Pre Xmas 2018 we updated a couple of sites
- - December 6th, 2018 (Atomic Smash holiday started on the 19th)
-- Post Xmas 2018 we updated the rest
+- **Post Xmas 2018 we updated the rest**
 
 ---
 
-# Final decisions post Xmas
+# Then came our future planning
 
-### - All new project will use Gutenberg
 ### - Review on a case by case basis whether the client needs/wants the update
+### - All **new** project will use Gutenberg
 
 ---
 
-# Thoughts so far,
+# Then came our future planning
+
+### - Review on a case by case basis whether the client needs/wants the update
+### - All **new** project will use Gutenberg
+
+## Our next new project... our own site! 😬
+
+---
+
+# Know what Gutenberg blocks can and can't do in it's current state
+
+---
+
+![inline](assets/acf-blocks.png)
+
+---
+
+# Coping with data structure changes
 
 ---
 
@@ -248,24 +259,51 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
 
 ---
 
+<br><br>
+<br>
+<br>
 
+```html
+<!-- wp:image {"id":8}-->
+<figure />
+<!-- /wp:image -->
 
-    Know what Gutenberg blocks can and can't do in it's current state do
+```
 
+---
 
-        Unit testing plugin
+Content in one place
 
-            - Go back to old project
-            - Go back to blocks
-            - Only new project have Gutenberg
-             - Talk about new AS site
-        	- data structure
+![inline](assets/sql-content.png)
 
+---
 
+# Build a new testing process
 
+---
 
+# [fit] Block Unit Test for Gutenberg
 
+![inline](assets/block-unit-tests.png)
 
+https://wordpress.org/plugins/block-unit-test/
+
+---
+
+# ACF helping again
+
+![inline](assets/acf-blocks.jpg)
+
+# advancedcustomfields.com/resources/blocks/
+
+---
+
+# In Summary
+
+- We entirely believe Gutenberg is the future of WordPress
+    - But for right now, that doesn't mean it's for everyone
+- The ecosystem around it is growing
+- Stay flexible
 
 ---
 
@@ -274,7 +312,7 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
 Follow me:
 @david_darke
 
-Follow the studio on:
+Follow the studio:
 @atomicsmash
 
 ---
