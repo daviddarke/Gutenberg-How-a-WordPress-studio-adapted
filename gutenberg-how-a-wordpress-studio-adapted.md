@@ -58,7 +58,11 @@ slidenumbers: true
 
 ---
 
-# [fit] Custom fields!!!
+![fit](assets/wysiwyg.png)
+
+---
+
+# [fit] Custom fields UI!!!
 
 ---
 
@@ -92,7 +96,7 @@ slidenumbers: true
 
 ---
 
-# This was great, but keeping field in sync between dev and production as **PAINFUL!**
+# This was great, but keeping fields in sync between development and production was **PAINFUL!**
 
 ---
 
@@ -108,7 +112,7 @@ slidenumbers: true
 
 ---
 
-## This is the foundation our internal development framework
+## This was the foundation our internal development framework
 
 ---
 
@@ -127,13 +131,13 @@ slidenumbers: true
 
 # The pitch
 
-Gutenberg looks at the editor as more than a content field, revisiting a layout that has been largely unchanged for almost a decade.This allows us to holistically design a modern editing experience and build a foundation for things to come.
+Gutenberg looks at the editor as more than a content field, revisiting a layout that has been largely unchanged for almost a decade. This allows us to holistically design a modern editing experience and build a foundation for things to come.
 
 ## [fit] 👍👍👍👍👍👍👍👍👍👍👍👍
 
 ---
 
-# The reality...
+# The reception...
 
 ![inline](assets/1stars.png)
 
@@ -149,7 +153,7 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
 
 - Releases were buggy
 - A sense of this change being forced on a community
-- No real clarity around the classic editor and what it was meant to do
+- No real clarity around the classic editor plugin and what it was meant to do
 - The negative voices outweighed positive
 
 ---
@@ -184,7 +188,7 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
 
 ---
 
-# [fit] Client relationships
+# [fit] **Another reason, Client relationships**
 
 - How to discuss this big change to their precious website?
  - Some clients will like the update, some won't.
@@ -199,12 +203,57 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
 - Composer helped us... ALOT
  - It allowed us to fix the core version and pre load the classic editor
 - Pre Xmas 2018 we updated a couple of sites
-- Post Xmas 2018 we updated the rest
+ - December 6th, 2018 (Atomic Smash holiday started on the 19th)
+
+
+---
+
+# Studio is closed for two weeks at Xmas...
+<br>
+<br>
+# [fit] **atomicsmash.co.uk/jobs**
+
+---
 
 ![inline](assets/fire.gif)
 
 ---
 
+# [fit] What we did Atomic Smash
+
+- Composer helped us... ALOT
+ - It allowed us to fix the core version and pre load the classic editor
+- Pre Xmas 2018 we updated a couple of sites
+ - December 6th, 2018 (Atomic Smash holiday started on the 19th)
+- Post Xmas 2018 we updated the rest
+
+---
+
+# Final decisions post Xmas
+
+### - All new project will use Gutenberg
+### - Review on a case by case basis whether the client needs/wants the update
+
+---
+
+# Thoughts so far,
+
+---
+
+![inline](assets/block-editor-view.png)
+
+---
+
+![inline](assets/sql-content.png)
+
+---
+
+
+
+    Know what Gutenberg blocks can and can't do in it's current state do
+
+
+        Unit testing plugin
 
             - Go back to old project
             - Go back to blocks
@@ -214,7 +263,7 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
 
 
 
----
+
 
 
 
