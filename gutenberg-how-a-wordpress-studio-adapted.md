@@ -47,7 +47,7 @@ slidenumbers: true
 # [fit] WordPress delivered:
 
 - Simple and reliable content delivery
-- Clear page hierarchy / url structure
+- Clear page hierarchy / URL structure
 - Simple menu system
 - Basic media library
 
@@ -71,7 +71,7 @@ slidenumbers: true
 
 # [fit] ACF allowed us
 
-- Easily create robust field sets
+- Easily create robust fieldsets
 - Build post to post relationships
 - Fashion basic event system / queries
 - Build a block / page building system
@@ -108,7 +108,7 @@ slidenumbers: true
 
 ---
 
-## This was the foundation our internal development framework
+## This was the foundation of our internal development framework
 
 ---
 
@@ -120,9 +120,10 @@ slidenumbers: true
 
 ---
 
-- Initial commit 3rd Feb 2017
-- Months rolled past
-- Beta versions and release candidates appeared
+- Initial commit 3rd Feb 2017.
+- Months rolled past.
+- Beta versions and release candidates appeared.
+- Sounded great, but we were worried about the impact on our day-to-day.
 
 ---
 
@@ -175,7 +176,6 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
 
 ![inline 30%](assets/projects3.png)
 
-
 ---
 
 ![inline 20%](assets/projects5.png)
@@ -196,8 +196,8 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
 
 # [fit] First steps for Atomic Smash
 
-- Composer helped us... ALOT
- - It allowed us to fix the core version and pre load the classic editor
+- Composer helped us... A LOT
+ - It allowed us to fix the core version and pre-load the classic editor
 - Pre Xmas 2018 we updated a couple of sites to 5.0 (with classic editor installed)
  - Released December 6th, 2018 (Atomic Smash holiday started on the 19th)
 
@@ -205,7 +205,7 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
 
 # [fit] Studio is closed for two weeks at Xmas...
 
----
+
 
 <br>
 <br>
@@ -223,14 +223,14 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
 
 ---
 
-# Then came our future planning
+# Next, future planning
 
 ### - Review on a case by case basis whether the client needs/wants the update
 ### - All **new** project will use Gutenberg
 
 ---
 
-# Then came our future planning
+# Next, future planning
 
 ### - Review on a case by case basis whether the client needs/wants the update
 ### - All **new** project will use Gutenberg
@@ -239,7 +239,7 @@ Gutenberg looks at the editor as more than a content field, revisiting a layout 
 
 ---
 
-# Know what Gutenberg blocks can and can't do in it's current state
+# Know what Gutenberg blocks can and can't do in its current state
 
 ---
 
@@ -278,7 +278,7 @@ Content in one place
 
 ---
 
-# Build a new testing process
+# Prepping for a new testing process
 
 ---
 
@@ -290,11 +290,9 @@ https://wordpress.org/plugins/block-unit-test/
 
 ---
 
-# ACF helping again
+# ACF is helping again, in the form of ACF blocks
 
-![inline](assets/acf-blocks.jpg)
-
-# advancedcustomfields.com/resources/blocks/
+![inline autoplay loop](assets/lMWmuunJMV.mp4)
 
 ---
 
